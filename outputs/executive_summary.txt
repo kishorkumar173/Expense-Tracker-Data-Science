@@ -1,0 +1,26 @@
+======================================================================
+FINTRACK PRO - EXECUTIVE FINANCIAL AUDIT & INSIGHTS REPORT
+Generated On: 2026-10-18 14:14:19
+======================================================================
+
+1. EXECUTIVE SUMMARY
+- Total Expenditure: ₹2,836,130.29
+- Active Period: 12 months (1148 transactions)
+- Average Monthly Spend: ₹236,344.19
+- Target Monthly Budget: ₹75,000.00
+- Projected Next Month Spend: ₹273,957.08 (Risk: 99.0%)
+
+2. KEY BUSINESS & BEHAVIORAL INSIGHTS
+[1] Budget Alert: In 2025-12, spending reached ₹263,155.41, exceeding your target budget of ₹75,000.00 by ₹188,155.41 (350.9% utilized).
+[2] Top Expense Driver: Shopping & Lifestyle constitutes 26.01% of total outgoing cash flow (₹737,561.22 across 164 transactions).
+[3] Discretionary Leakage: Your 'Wants' (Dining, Shopping, Entertainment) account for 58.05% of spending, higher than the recommended 30% rule. Curtailing dining and impulsive shopping could save ₹795,534.55.
+[4] Statistical Outlier Detected: Found 8 transactions significantly above standard spending habits. Largest: ₹34,357.41 on 2025-07-17 00:00:00 for 'Smartwatch / Headphones payment via Credit Card'.
+[5] Cost Reduction: Monthly spending decreased by 10.12%, reflecting improved financial restraint.
+
+3. STATISTICAL OUTLIER ANALYSIS (IQR METHOD)
+- Detected 8 unusual transactions.
+   * 2025-07-17 | Electronics & Gadgets | ₹34,357.41 | Smartwatch / Headphones payment via Credit Card
+   * 2025-07-01 | Electronics & Gadgets | ₹33,901.53 | Smartwatch / Headphones payment via Credit Card
+   * 2025-06-20 | Electronics & Gadgets | ₹33,512.79 | Laptop Upgrades payment via UPI (PhonePe/GPay)
+   * 2025-10-17 | Transportation | ₹2,864.85 | Metro / Bus payment via Credit Card
+   * 2025-10-05 | Utilities & Bills | ₹1,737.77 | State Electricity Board Payment
